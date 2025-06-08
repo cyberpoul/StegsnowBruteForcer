@@ -3,7 +3,7 @@
 
 # Install :
 
-1. `git clone https://github.com/e3xxx/StegsnowBruteForcer.git`
+1. `git clone https://github.com/cyberpoul/StegsnowBruteForcer.git`
 
 2. `cd StegsnowBruteForcer`
 
