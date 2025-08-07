@@ -13,8 +13,8 @@ signature = """
 ***********************************************************
 *                                                         *
 *         Stegsnow Password Brute-Force Attack            *
-*                    made by opscur                         *
-*     https://github.com/opscur/StegsnowBruteForcer      *
+*                    made by opscur                       *
+*     https://github.com/cyberpoul/StegsnowBruteForcer    *
 *                                                         *
 ***********************************************************
 """
@@ -102,4 +102,5 @@ with ThreadPoolExecutor(max_workers=num_threads) as executor:
             thread.join()
 
 print("\nBrute-force attack completed. The results have been saved in", output_file)
+
 
