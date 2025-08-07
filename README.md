@@ -1,9 +1,6 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=cyberpoul.StegsnowBruteForcer)
 ## StegsnowBruteForcer                                                         
 
-
-## Install :
-
 1. `git clone https://github.com/cyberpoul/StegsnowBruteForcer.git`
 
 2. `cd StegsnowBruteForcer`
